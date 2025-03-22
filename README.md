@@ -1,2 +1,2 @@
-# Azizp-laylist
+# Azizp-playlist
 Music boshqaruv
